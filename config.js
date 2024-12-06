@@ -1,7 +1,7 @@
 module.exports = {
     prefix: '.', // Set your command prefix
-    ownerName: 'Toxxic',
-    ownerNumber: '2348165846414', // Your WhatsApp number in international format
+    ownerName: 'GOD',
+    ownerNumber: '237652903563', // Your WhatsApp number in international format
     mode: 'private', // Default mode; can be 'public' or 'private'
     region: 'Nigeria', 
     botName: 'Rias Gremory V3', 
@@ -10,5 +10,5 @@ module.exports = {
     timeZone: 'Africa/Lagos',// Your Country Time Zone
     presenceStatus: 'recording', // Default bot presence status (available, typing, recording, invisible)
     autoRead: 'false', // true or false for autoread functions
-    autoViewStatus: 'false' //true or false for auto view status
+    autoViewStatus: 'true' //true or false for auto view status
 };
